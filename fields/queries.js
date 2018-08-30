@@ -26,7 +26,10 @@ const queries_screening = {
   '00_name': 'Name',
   '01_gm_fit': 'General Member Fit',
   '02_officer': 'Officer',
-  '03_timestamp': 'Timestamp'
+  '03_timestamp': 'Timestamp',
+  '04_comments': 'Comments',
+  '05_portfolio': 'Portfolio',
+  '06_resume': 'Resume'
 };
 
 module.exports = {

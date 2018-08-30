@@ -1,6 +1,9 @@
 #secrets
 /secrets
 
+#dsstore
+.DS_STORE
+
 # Logs
 logs
 *.log
